@@ -1,8 +1,16 @@
 # laRepubblica Berlusconi
  
-This repository include
+This repository include the notebooks used to scrape and analyze more than 31,000 headlines published by the Italian newspaper [laRepubblica](https://www.larepubblica.it) about Silvio Berlusconi.
 
 ## Summary of findings
+Over the course of the years laRepubblica published 31,805 articles with headlines containing the words 'berlusconi' or 'silvio'.
+These articles spiked in 2013, when Berlusconi was sentenced for tax evasion. In that year, laRepubblica published 3,130 articles about the former Italian Prime Minister.
+
+Among the words most commonly associated with Berlusconi in headlines, some interesting trends emerge.
+
+The person most frequently mentioned is the leader of the right-wing party North League, Matteo Salvini, with 726 occurrences, followed by the former progressive leader Matteo Renzi, with 622.
+
+The most-common verb is "attack" (436 headlines), while 297 headlines involve the word "trial" and 230 the word "crisis". The word "decadence" appeared in 149 headlines.
 
 ## Notebooks
 
